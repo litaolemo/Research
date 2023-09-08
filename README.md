@@ -15,6 +15,7 @@ Transformer: ./informer/informer.ipynb
 <b>Figure 3.</b> An predict of the ECG data.
 </p>
 
+Fitting result of Transformer model:
 
 |Input Length| Hidden unit| Forecast Lenth|Test RMSE|Test R2  |
 | ----------- | ----------- | ----------- | ----------- | ----------- |  
